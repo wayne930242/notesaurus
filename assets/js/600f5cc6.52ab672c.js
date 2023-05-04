@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotesaurus=self.webpackChunknotesaurus||[]).push([[2489],{3631:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/notesaurus/blog/tags/hello","allTagsPath":"/notesaurus/blog/tags","count":2}')}}]);
